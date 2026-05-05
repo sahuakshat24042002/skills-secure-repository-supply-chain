@@ -1,6 +1,5 @@
 name: Step 1 # Review add dependency graph
 
-on:
   push:
     branches:
       - main
